@@ -1,19 +1,19 @@
 {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/usetero/cli/releases/download/v1.6.0/tero_1.6.0_windows_amd64.tar.gz",
+            "url": "https://github.com/usetero/cli/releases/download/v1.7.0/tero_1.7.0_windows_amd64.tar.gz",
             "bin": [
                 "tero.exe"
             ],
-            "hash": "01e0f8e02876c63fe6c99a30c29247a6c87248cc5a3b56e3cb655ea079619adf"
+            "hash": "a35ba2d667e0605757f5d506fa4a981f3474d42c2460d7e00fe39d0bc3dab771"
         },
         "arm64": {
-            "url": "https://github.com/usetero/cli/releases/download/v1.6.0/tero_1.6.0_windows_arm64.tar.gz",
+            "url": "https://github.com/usetero/cli/releases/download/v1.7.0/tero_1.7.0_windows_arm64.tar.gz",
             "bin": [
                 "tero.exe"
             ],
-            "hash": "426c1b3b80f258bfc941f32ed41a4c012701766ecc3bae9bed3f22f2f2c909f5"
+            "hash": "bf1748b1fd18dd53fe97c5b61ae38055dc669e20e16c4e6e3e7eaeb14e9c6809"
         }
     },
     "homepage": "https://usetero.com",
